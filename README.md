@@ -1,8 +1,8 @@
-# Controlador de Stock de Mercearia
+# Controlador de Estoque de Mercearia
 
 <img src="screenshot.png" alt="exemplo imagem">
 
-> API e Frontend de um Controlador de Stock para Mercearias. O aplicativo registra produtos e seus fornecedores.
+> API e Frontend de um Controlador de Estoque para Mercearias. O aplicativo registra produtos e seus fornecedores.
 
 ### Ajustes e melhorias
 
